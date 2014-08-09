@@ -13,6 +13,8 @@
   },
   "homepage": "https://github.com/icbmike/angular-experiements",
   "devDependencies": {
-    "gulp": "^3.8.7"
+    "browserify": "^5.9.1",
+    "gulp": "^3.8.7",
+    "gulp-browserify": "^0.5.0"
   }
 }
