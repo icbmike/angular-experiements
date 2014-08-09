@@ -1,0 +1,15 @@
+{
+  "name": "angular-experiements",
+  "version": "0.0.0",
+  "description": "angular-experiements",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icbmike/angular-experiements.git"
+  },
+  "author": "Mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icbmike/angular-experiements/issues"
+  },
+  "homepage": "https://github.com/icbmike/angular-experiements"
+}
