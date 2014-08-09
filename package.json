@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/icbmike/angular-experiements/issues"
   },
-  "homepage": "https://github.com/icbmike/angular-experiements"
+  "homepage": "https://github.com/icbmike/angular-experiements",
+  "devDependencies": {
+    "gulp": "^3.8.7"
+  }
 }
